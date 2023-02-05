@@ -1,6 +1,7 @@
 # JoseMRodriguez :basketball:
 
- ** Constanly evolving (Developer)**
+**`Digital Profile (Developer/MD)`**
+
 I'm a Venezuelan medical doctor, chasing the future, decided to learn computer languages to help  people in the same way I did when I was a doctor, the projects will be solving real-life problems with code.
 
 
