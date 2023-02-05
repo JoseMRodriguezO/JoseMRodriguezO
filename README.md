@@ -2,7 +2,7 @@
 
 **`Digital Profile (Developer/MD)`**
 
-I'm a Venezuelan medical doctor, chasing the future, decided to learn computer languages to help  people in the same way I did when I was a doctor, the projects will be solving real-life problems with code.
+I'm a fullstack developer and former Venezuelan medical doctor, who is chasing the problems and creating solutions for the future.  I want to apply my skills to solve real life problems but this time using code.  I want to  create solutions for a world that is rapidly evolving by using adaptable, creative and applible thinking.  
 
 
 
