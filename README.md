@@ -34,4 +34,4 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMRodriguezO&theme=dark&show_icons=true)
