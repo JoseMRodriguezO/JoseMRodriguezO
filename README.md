@@ -6,6 +6,9 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 
 
 <!-- Social badges section -->
+h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="inkedin.com/in/josemrodriguez2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 
 <!-- View counter - https://github.com/JoseMRodriguezO/Simple-View-Counter -->
 
