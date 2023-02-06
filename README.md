@@ -34,7 +34,7 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 <br />
 
 
---
+
 ### 📊 Stats
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMRodriguezO&theme=dark&show_icons=true)
@@ -42,3 +42,6 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 
 #
 
+<details>
+ <summary><h3>👨‍💻 Jose's Coding Journey</h3></summary>
+ Under construction 
