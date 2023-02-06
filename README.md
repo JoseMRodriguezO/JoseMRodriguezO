@@ -32,9 +32,13 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-###
+#
 
 
 ### 📊 Stats
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMRodriguezO&theme=dark&show_icons=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JoseMRodriguezO&theme=gruvbox&border_radius=4.5) -->
+
+#
+
