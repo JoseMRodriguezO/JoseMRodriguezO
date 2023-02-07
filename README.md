@@ -8,7 +8,7 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 <!-- Social badges section -->
 <h3 align="left">Follow me</h3>
 <p align="left">
-<a href="linkedin.com/in/josemrodriguez2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JoseMRodriguezO" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josemrodriguez2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JoseMRodriguezO" height="30" width="40" /></a>
 
 <!-- View counter - https://github.com/JoseMRodriguezO/Simple-View-Counter -->
 
