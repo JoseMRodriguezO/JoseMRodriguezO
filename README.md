@@ -19,7 +19,7 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 - 🌱 I’m currently learning ruby on rails and full stack ruby 
 - 💬 Ask me about loops and methods from ruby 
 - 📫 How to reach me: ...
-- ⚡ Fun fact: I like play basketball or go for a run on my free time.
+- ⚡ Fun fact: Babies have no kneecaps. Yes, you heard me right!
 ---
 
 
