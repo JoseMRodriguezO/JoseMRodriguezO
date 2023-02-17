@@ -10,15 +10,15 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 <p align="left">
 <a href="https://linkedin.com/in/josemrodriguez2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JoseMRodriguezO" height="30" width="40" /></a>
 
-View counter - https://github.com/JoseMRodriguezO/Simple-View-Counter 
+
 
  
    
   
-- 🔭 I’m currently working mini-capstone
-- 🌱 I’m currently learning ruby on rails and full stack ruby 
+- 🔭 I’m currently working on making API using python
+- 🌱 I’m currently learning ruby on rails and full stack ruby,teaching some python
 - 💬 Ask me about loops and methods from ruby 
-- 📫 How to reach me: 
+- 📫 How to reach me:  
 - ⚡ Fun fact: Babies have no kneecaps. Yes, you heard me right!
 ---
 
