@@ -47,4 +47,4 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 
 <details>
  <summary><h3>:necktie: Jose's Coding Journey</h3></summary>
- Under construction 
+ In progress... 🕐 🫀
