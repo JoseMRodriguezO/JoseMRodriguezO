@@ -15,10 +15,10 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
  
    
   
-- 🔭 I’m currently working on making API using python
+- 🔭 I’m currently working on https://gist.github.com/JoseMRodriguezO
 - 🌱 I’m currently learning ruby on rails and full stack ruby,teaching some python
 - 💬 Ask me about loops and methods from ruby 
-- 📫 How to reach me:  
+- 📫 How to reach me:  https://www.linkedin.com/in/josemrodriguez2022/
 - ⚡ Fun fact: Babies have no kneecaps. Yes, you heard me right!
 ---
 
