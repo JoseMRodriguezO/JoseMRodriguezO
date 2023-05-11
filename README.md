@@ -41,7 +41,7 @@ I'm a fullstack developer and former Venezuelan medical doctor, who is chasing t
 ### 📊 Stats
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMRodriguezO&theme=dark&show_icons=true)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JoseMRodriguezO&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats-sigma-five.demolab.com?user=JoseMRodriguezO&theme=gruvbox&border_radius=4.5) -->
 
 #
 
